@@ -12,4 +12,6 @@ When working together, we declare to try our very best in adhering to the follow
 
 5. 👀 all pull requests need >= 1 review
 
-6. 🗓 hour sheets and invoices are submitted during the first week of the following month
+6. 💀 when a deadline is declared and agreed upon, it has to be met at all costs. If it can't be kept, those affected have to be notified in due time.
+
+7. 🗓 hour sheets and invoices are submitted during the first week of the following month
