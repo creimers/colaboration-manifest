@@ -8,10 +8,10 @@ When working together, we declare to try our very best in adhering to the follow
 
 3. #️⃣ feature branches and commits are prefixed with the issue number (e.g. `feature/#21-red-button`)
 
-4. 🌘 all pending commits are pushed to remote at the end of the day
+4. 🌘 all pending commits are pushed to remote at the end of the day (the latest)
 
-5. 👀 all pull requests need >= 1 review
+5. 👀 all pull requests need >= 1 review before merging
 
-6. 💀 when a deadline is declared and agreed upon, it has to be met at all costs. If it can't be kept, those affected have to be notified in due time.
+6. 💀 when a deadline is declared and agreed upon, it has to be met at all costs. If it can't be kept, those affected have to be notified in due time (the sooner, the better)
 
 7. 🗓 hour sheets and invoices are submitted during the first week of the following month
