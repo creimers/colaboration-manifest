@@ -14,4 +14,4 @@ When working together, we declare to try our very best in adhering to the follow
 
 6. 💀 when a deadline is declared and agreed upon, it has to be met at all costs. If it can't be kept, those affected have to be notified in due time (the sooner, the better)
 
-7. 🗓 hour sheets and invoices are submitted during the first week of the following month
+7. 🗓 hour sheets (and invoices) are submitted during the first week of the following month
