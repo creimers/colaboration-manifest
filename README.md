@@ -1,6 +1,6 @@
 # colaboration manifest
 
-When working together, we declare to try our very best in adhering to the following points:
+When working together, we declare to try our very best in adhering to the following principles:
 
 1. 🛤 always work on a feature branch
 
